@@ -1,0 +1,18 @@
+.select-a-category {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.labels {
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+.content {
+  text-transform: none;
+  font-size: 12px;
+}
+
+#score-section {
+  padding-top: 25px;
+}
